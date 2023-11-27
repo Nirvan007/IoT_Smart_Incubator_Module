@@ -60,6 +60,7 @@ Blynk is an IoT platform that simplifies the development of IoT projects. It pro
 4. DS18B20 Digital temperature sensor
 5. DHT11 Temperature and Humidity sensor
 6. 16x2 I2C LCD Display
+7. LM2596 DC-DC Buck Converter
 8. 5V Piezo Buzzer
 9. DC 5V 1A Power Bank Module
 10. 18650 2000mAh Li-Ion Battery
