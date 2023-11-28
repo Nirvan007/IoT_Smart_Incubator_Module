@@ -95,18 +95,9 @@ Espressif System's ESP8266 microcontroller has the following specifications:
 ![image](https://github.com/Nirvan007/IoT_Smart_Incubator_Module/assets/127144315/193a112a-81e4-4900-9889-9efb57aa9d6a)
 
 ## Blynk IoT Mobile Dashboard (Mobile Application)
-#### Projects interface
-![image](https://user-images.githubusercontent.com/127144315/223844498-3c206e85-dd1c-41f6-998f-936464151265.png)
-
-#### IoT Module Project Overview
-![image](https://user-images.githubusercontent.com/127144315/223844840-717feab1-2709-4f5d-92d9-6bd8a7ac7aec.png)
-
 #### Parameter Display
-![WhatsApp Image 2023-03-09 at 2 23 30 AM (1)](https://user-images.githubusercontent.com/127144315/223847522-d2eddc7b-c720-4bbe-ab90-4611382727a1.jpeg)
-
-## Blynk Application UI
-#### Main Dashboard
-![WhatsApp Image 2023-03-09 at 1 21 38 AM](https://user-images.githubusercontent.com/127144315/223833541-a061c01b-c190-46f0-ba09-0a1ba1cc4de5.jpeg)
+![image](https://github.com/Nirvan007/IoT_Smart_Incubator_Module/assets/127144315/54f7a057-8d4b-40f1-ba87-77b2ba2793dc)
+![image](https://github.com/Nirvan007/IoT_Smart_Incubator_Module/assets/127144315/4ce4663c-3381-437e-a28e-37d6e91ef1ee)
 
 ## References
  - [1] https://www.analog.com/en/products/max30100.html
