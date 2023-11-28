@@ -12,7 +12,7 @@ IoT Smart Incubator Module <a name="TOP"></a>
 * [Microcontroller Specifications](#Microcontroller-Specifications)
 * [Schematic](#Schematic)
 * [Completed Hardware Assembly](#Completed-Hardware-Assembly)
-* [SEMACS Application UI](#SEMACS-Application-UI)
+* [Blynk IoT Mobile Dashboard (Mobile Application)](#Blynk-IoT-Mobile-Dashboard-(Mobile-Application))
 * [References](#References)
 
 ## Introduction
