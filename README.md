@@ -12,7 +12,7 @@ IoT Smart Incubator Module <a name="TOP"></a>
 * [Microcontroller Specifications](#Microcontroller-Specifications)
 * [Schematic](#Schematic)
 * [Completed Hardware Assembly](#Completed-Hardware-Assembly)
-* [Blynk IoT Mobile Dashboard (Mobile Application)](#Blynk-IoT-Mobile-Dashboard-(Mobile-Application))
+* [Blynk IoT Mobile Dashboard](#Blynk-IoT-Mobile-Dashboard)
 * [References](#References)
 
 ## Introduction
@@ -94,7 +94,7 @@ Espressif System's ESP8266 microcontroller has the following specifications:
 ## Completed Hardware Assembly
 ![image](https://github.com/Nirvan007/IoT_Smart_Incubator_Module/assets/127144315/193a112a-81e4-4900-9889-9efb57aa9d6a)
 
-## Blynk IoT Mobile Dashboard (Mobile Application)
+## Blynk IoT Mobile Dashboard
 #### Parameter Display
 ![image](https://github.com/Nirvan007/IoT_Smart_Incubator_Module/assets/127144315/54f7a057-8d4b-40f1-ba87-77b2ba2793dc)
 ![image](https://github.com/Nirvan007/IoT_Smart_Incubator_Module/assets/127144315/4ce4663c-3381-437e-a28e-37d6e91ef1ee)
